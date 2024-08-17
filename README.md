@@ -10,6 +10,9 @@ Download the game from [itch.io](https://moodytail.itch.io/pocket-crystal-league
 |X|Sort cards during battle|
 |Y|End turn / Open all cards|
 
+## Cheats
+In the `cheats` folder there are three save files, all of these are at the beginning of the game with $1Million each with a different starter deck. Use them if you wish.
+
 ## Building
 This game is [open source](https://gitlab.com/moodytail/pokecards) and can be compiled with Game Maker. This port uses Game Maker Version 2023.8.0.98 with alternate music tracks. Music is externalized for more seamless streaming audio.
 
