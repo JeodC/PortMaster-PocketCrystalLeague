@@ -13,17 +13,16 @@
     ],
     "desc": "Pocket Crystal League (PCL) is a Poke-card game, although completely different to the Official TCG. The gameplay mechanics were partially inspired by Inscryption, being pretty straightforward and easy to learn.",
     "desc_md": null,
-    "inst": "Download the game from [itch.io](https://moodytail.itch.io/pocket-crystal-league) and add the `data.win` file to `ports/pocketcrystalleague`.",
+    "inst": "Game is ready to run!",
     "inst_md": null,
     "genres": [
       "casino/card"
     ],
     "image": null,
-    "rtr": false,
+    "rtr": true,
     "exp": false,
     "runtime": null,
     "reqs": [
-      "!lowres"
     ],
     "arch": [
       "aarch64"
