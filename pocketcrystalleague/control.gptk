@@ -24,10 +24,5 @@ right_analog_left = \"
 right_analog_right = \"
 
 deadzone_triggers = 3000
-mouse_scale = 6114
-mouse_delay = 16
-
-deadzone_mode = axial
-deadzone = 1000
-deadzone_scale = 7
-deadzone_delay = 16
+mouse_scale = 4000
+mouse_delay = 8
